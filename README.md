@@ -1,6 +1,6 @@
 ![Visits Badge](https://badges.pufler.dev/visits/arthurpalves/arthurpalves?color=black&logo=github)
-[![Repos Badge](https://badges.pufler.dev/repos/arthurpalves)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/arthurpalves)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/arthurpalves)](https://github.com/arthurpalves?tab=repositories)
+[![Gists Badge](https://badges.pufler.dev/gists/arthurpalves)](https://gist.github.com/arthurpalves)
 
 ### Hi there 👋 I’m Arthur Alves.
 
