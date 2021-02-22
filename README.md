@@ -1,3 +1,7 @@
+![Visits Badge](https://badges.pufler.dev/visits/arthurpalves/arthurpalves?color=black&logo=github)
+[![Repos Badge](https://badges.pufler.dev/repos/arthurpalves)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/arthurpalves)](https://badges.pufler.dev)
+
 ### Hi there 👋 I’m Arthur Alves.
 
 I live in The Netherlands 🇳🇱, originally from Brazil 🇧🇷
