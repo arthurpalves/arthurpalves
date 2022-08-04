@@ -1,6 +1,4 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/alvesparthur?color=blue&label=%40alvesparthur&style=social)
-[![Repos Badge](https://badges.pufler.dev/repos/arthurpalves)](https://github.com/arthurpalves?tab=repositories)
-[![Gists Badge](https://badges.pufler.dev/gists/arthurpalves)](https://gist.github.com/arthurpalves)
 
 ### Hi there 👋 I’m Arthur Alves.
 
