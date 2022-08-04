@@ -17,6 +17,6 @@ I’ve always wanted to be more active in the open source community, but you kno
 I’m venturing myself in game development, slowly but surely building a story driven RPG for console. It will take years. Check that work on Redslash.
 
 ### What I do for a living?
-Currently iOS Engineer at 👉 [@Vinted](https://www.vinted.com)
+Currently Principal iOS Engineer at 👉 [@Backbase](https://github.com/Backbase)
 
-Previously, Mobile Tech Lead at [@Backbase](https://github.com/Backbase)
+Previously, iOS Engineer at [@Vinted](https://www.vinted.com)
